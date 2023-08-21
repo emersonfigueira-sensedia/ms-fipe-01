@@ -109,5 +109,7 @@
 	<modules>
 		<module>cars-fipe</module>
 		<module>cars-auth</module>
+		<module>cars-email</module>
+		<module>cars-api</module>
 	</modules>
 </project>
